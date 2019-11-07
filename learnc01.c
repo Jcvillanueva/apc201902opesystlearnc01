@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int main()
@@ -15,5 +14,3 @@ int main()
 	printf("\nYour Last name is %s\n" , lname);
 	return 0;
 	}
-
-
